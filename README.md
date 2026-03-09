@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hiroki Kawai
 
-<!--
-**hiroalchem/hiroalchem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioimage analysis tools and annotation workflows for microscopy datasets.
 
-Here are some ideas to get you started:
+## Maintained Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHILOW – human-in-the-loop deep learning platform for 3D microscopy datasets  
+  https://github.com/neurobiology-ut/PHILOW
+
+- napari-SAM4IS – annotation tool using Segment Anything  
+  https://github.com/hiroalchem/napari-SAM4IS
+
+- napari-simpleannotate – lightweight annotation plugin  
+  https://github.com/hiroalchem/napari-simpleannotate
+
+- napari-labelimg4classification – classification annotation plugin  
+  https://github.com/hiroalchem/napari-labelimg4classification
+
+These tools are distributed through the napari ecosystem and napari hub.
